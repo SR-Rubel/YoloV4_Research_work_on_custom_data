@@ -10,3 +10,6 @@ challenging task in urban area like Dhaka city to detect multiple overlapping ve
 The purpose of this paper is to train a vehicle detector using YOLOv3, YOLOv4, RetinaNet, Faster R-CNN
 and EfficientDet methods and make experimental analysis comparison between them with the result obtained
 from these methods. In addition, we tried different settings and approaches to maximize the result
+# Demo detection:
+![image](https://user-images.githubusercontent.com/72368083/130257875-f7eba701-233f-4496-b9eb-e52e738366a7.png)
+
